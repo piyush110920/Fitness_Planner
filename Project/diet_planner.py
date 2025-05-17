@@ -4,7 +4,7 @@ import joblib
 
 def diet_planner_app():
     # Load your trained model
-    model = joblib.load('./diet_model3.pkl')
+    model = joblib.load('Project/diet_model3.pkl')
 
     FEATURE_NAMES = [
         'Gender', 'Age', 'Diabetes', 'Weight', 'Wanna Loose Weight', 'Height', 'BMI', 'Calories', 'Meal Type',
