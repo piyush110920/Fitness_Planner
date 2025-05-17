@@ -1,0 +1,501 @@
+Gender,Age,Name,Diabetes,Weight,Wanna Loose Weight,Height,BMI,Calories,Exercise,Workout,Meal Type,Diet
+F,36,Person_1,N,70 kg,NO,168 cm,27.1,2800,Sedentary,Light Exercise,V,Fitness Diet
+M,22,Person_2,Y,97 kg,NO,178 cm,21.19,1800,Lightly Active,High intensity Exercise,V,Energy boost diet
+M,18,Person_3,Y,81 kg,NO,175 cm,20.12,2000,Super Active,High intensity Exercise,NV,Light Activity Fuel
+M,49,Person_4,Y,60 kg,YES,182 cm,23.79,2200,Super Active,High intensity Exercise,V,Fitness Diet
+M,48,Person_5,N,95 kg,NO,177 cm,18.74,2000,Super Active,Sedentary Lifestyle,NV,Fitness Diet
+M,53,Person_6,N,63 kg,NO,179 cm,28.46,2600,Lightly Active,Sedentary Lifestyle,V,Energy boost diet
+M,58,Person_7,Y,75 kg,YES,188 cm,19.13,2200,Lightly Active,Light Exercise,V,Fitness Diet
+M,34,Person_8,N,77 kg,NO,172 cm,18.73,3100,Moderate,Light Exercise,NV,Light Activity Fuel
+M,46,Person_9,Y,51 kg,YES,172 cm,28.01,2200,Moderate,Light Exercise,NV,Fitness Diet
+M,52,Person_10,N,89 kg,NO,165 cm,19.77,1800,Moderate,Moderate Exercise,NV,Energy boost diet
+F,45,Person_11,N,86 kg,YES,184 cm,28.59,2400,Sedentary,High intensity Exercise,V,Balanced Diet
+M,20,Person_12,Y,72 kg,YES,188 cm,22.62,1800,Sedentary,Moderate Exercise,V,Light Activity Fuel
+M,41,Person_13,N,61 kg,YES,159 cm,28.91,2600,Sedentary,Moderate Exercise,V,Light Activity Fuel
+F,46,Person_14,N,78 kg,NO,169 cm,24.78,3100,Very Active,Moderate Exercise,NV,Balanced Diet
+M,49,Person_15,N,78 kg,NO,150 cm,26.2,2800,Sedentary,Sedentary Lifestyle,NV,Balanced Diet
+M,24,Person_16,N,89 kg,NO,153 cm,19.51,1800,Sedentary,Moderate Exercise,NV,Balanced Diet
+M,55,Person_17,N,75 kg,NO,184 cm,29.42,2800,Moderate,High intensity Exercise,NV,Balanced Diet
+F,46,Person_18,Y,96 kg,YES,168 cm,25.84,2200,Super Active,Sedentary Lifestyle,NV,Fitness Diet
+F,54,Person_19,N,74 kg,NO,182 cm,24.96,3000,Sedentary,Light Exercise,NV,Balanced Diet
+F,30,Person_20,Y,65 kg,NO,167 cm,19.12,2200,Very Active,Light Exercise,V,Energy boost diet
+M,54,Person_21,N,75 kg,NO,152 cm,19.4,1800,Very Active,Light Exercise,NV,Energy boost diet
+F,26,Person_22,Y,93 kg,YES,184 cm,23.39,3100,Sedentary,High intensity Exercise,NV,Energy boost diet
+F,27,Person_23,N,66 kg,YES,181 cm,20,3100,Sedentary,Moderate Exercise,NV,Energy boost diet
+F,56,Person_24,N,69 kg,NO,152 cm,23.26,2200,Lightly Active,High intensity Exercise,V,Balanced Diet
+M,40,Person_25,Y,73 kg,NO,166 cm,21.71,2000,Sedentary,Light Exercise,V,Light Activity Fuel
+M,29,Person_26,Y,72 kg,NO,152 cm,21.68,3000,Very Active,Light Exercise,NV,Light Activity Fuel
+M,37,Person_27,N,95 kg,NO,181 cm,28.23,2200,Moderate,Light Exercise,NV,Energy boost diet
+F,46,Person_28,N,82 kg,YES,182 cm,26.92,2200,Moderate,Sedentary Lifestyle,V,Light Activity Fuel
+F,31,Person_29,Y,73 kg,YES,175 cm,22.65,2800,Moderate,High intensity Exercise,V,Fitness Diet
+M,41,Person_30,N,79 kg,NO,159 cm,19.88,2200,Very Active,Sedentary Lifestyle,NV,Fitness Diet
+M,33,Person_31,N,61 kg,NO,180 cm,21.48,2000,Lightly Active,High intensity Exercise,V,Energy boost diet
+M,29,Person_32,N,94 kg,YES,162 cm,19.09,3000,Sedentary,Sedentary Lifestyle,V,Fitness Diet
+F,32,Person_33,Y,99 kg,NO,175 cm,26.39,2600,Moderate,High intensity Exercise,V,Light Activity Fuel
+F,58,Person_34,Y,72 kg,YES,181 cm,22.26,2400,Sedentary,High intensity Exercise,V,Fitness Diet
+F,36,Person_35,Y,76 kg,YES,153 cm,26.92,2800,Super Active,Sedentary Lifestyle,NV,Energy boost diet
+F,24,Person_36,Y,67 kg,YES,185 cm,27.73,2400,Lightly Active,Light Exercise,NV,Fitness Diet
+F,41,Person_37,Y,80 kg,YES,154 cm,21.54,3100,Lightly Active,Moderate Exercise,V,Energy boost diet
+F,37,Person_38,N,60 kg,YES,176 cm,25.51,1800,Very Active,Sedentary Lifestyle,NV,Balanced Diet
+F,49,Person_39,Y,58 kg,YES,158 cm,21.74,2200,Lightly Active,Moderate Exercise,V,Balanced Diet
+F,27,Person_40,N,82 kg,YES,178 cm,25.95,2600,Sedentary,Sedentary Lifestyle,NV,Balanced Diet
+F,38,Person_41,N,71 kg,NO,160 cm,20.19,2200,Super Active,High intensity Exercise,V,Light Activity Fuel
+F,57,Person_42,N,73 kg,YES,162 cm,24.99,2600,Very Active,High intensity Exercise,V,Fitness Diet
+F,30,Person_43,N,96 kg,YES,176 cm,22.14,2600,Moderate,Sedentary Lifestyle,NV,Energy boost diet
+M,23,Person_44,N,50 kg,NO,167 cm,29.58,2800,Moderate,Light Exercise,V,Balanced Diet
+M,26,Person_45,N,68 kg,YES,159 cm,29.24,3100,Moderate,High intensity Exercise,V,Fitness Diet
+M,48,Person_46,Y,88 kg,NO,170 cm,28.26,3100,Sedentary,Sedentary Lifestyle,NV,Light Activity Fuel
+M,55,Person_47,N,60 kg,NO,150 cm,28.43,1800,Moderate,Sedentary Lifestyle,NV,Balanced Diet
+F,46,Person_48,Y,91 kg,NO,177 cm,28.75,2200,Moderate,Sedentary Lifestyle,V,Light Activity Fuel
+M,50,Person_49,Y,52 kg,YES,156 cm,24.5,2800,Lightly Active,Moderate Exercise,V,Light Activity Fuel
+M,36,Person_50,Y,92 kg,YES,150 cm,29.08,2000,Moderate,Sedentary Lifestyle,V,Energy boost diet
+M,32,Person_51,Y,94 kg,NO,166 cm,21.71,3000,Moderate,Moderate Exercise,NV,Balanced Diet
+F,56,Person_52,Y,94 kg,NO,183 cm,28.46,2000,Sedentary,Light Exercise,NV,Balanced Diet
+F,34,Person_53,N,71 kg,NO,159 cm,29.01,2800,Super Active,High intensity Exercise,V,Balanced Diet
+F,24,Person_54,N,86 kg,NO,173 cm,19.38,2000,Sedentary,Sedentary Lifestyle,V,Energy boost diet
+M,33,Person_55,N,51 kg,NO,189 cm,21.62,2800,Very Active,Moderate Exercise,NV,Fitness Diet
+M,47,Person_56,N,65 kg,YES,161 cm,25.92,3100,Moderate,Light Exercise,NV,Light Activity Fuel
+M,42,Person_57,Y,66 kg,YES,176 cm,22.18,3100,Moderate,Sedentary Lifestyle,NV,Energy boost diet
+F,47,Person_58,N,65 kg,NO,180 cm,24.59,2400,Super Active,High intensity Exercise,V,Fitness Diet
+M,59,Person_59,Y,89 kg,NO,174 cm,22.11,2200,Sedentary,Sedentary Lifestyle,NV,Fitness Diet
+M,57,Person_60,N,80 kg,YES,175 cm,24.85,1800,Lightly Active,Light Exercise,NV,Light Activity Fuel
+F,42,Person_61,N,73 kg,YES,176 cm,20.58,2000,Sedentary,Light Exercise,V,Light Activity Fuel
+M,36,Person_62,N,96 kg,YES,182 cm,27.65,2600,Very Active,High intensity Exercise,V,Fitness Diet
+M,28,Person_63,N,63 kg,YES,164 cm,24.59,3100,Moderate,High intensity Exercise,V,Fitness Diet
+M,41,Person_64,Y,56 kg,YES,172 cm,29.56,2000,Moderate,Moderate Exercise,V,Balanced Diet
+F,53,Person_65,N,100 kg,YES,167 cm,21.23,1800,Sedentary,High intensity Exercise,V,Energy boost diet
+M,28,Person_66,N,89 kg,YES,164 cm,19.1,2400,Sedentary,Light Exercise,NV,Light Activity Fuel
+M,57,Person_67,N,75 kg,NO,164 cm,26.49,2400,Super Active,Sedentary Lifestyle,NV,Fitness Diet
+F,25,Person_68,N,85 kg,YES,182 cm,27.98,2400,Sedentary,Moderate Exercise,V,Energy boost diet
+F,28,Person_69,N,94 kg,NO,184 cm,26.13,2600,Very Active,Sedentary Lifestyle,V,Balanced Diet
+F,20,Person_70,N,81 kg,YES,181 cm,27.28,1800,Moderate,Sedentary Lifestyle,V,Energy boost diet
+F,29,Person_71,N,80 kg,NO,190 cm,25.78,2200,Lightly Active,Light Exercise,V,Energy boost diet
+M,43,Person_72,N,71 kg,YES,150 cm,25.72,2200,Moderate,Moderate Exercise,NV,Fitness Diet
+F,47,Person_73,Y,55 kg,YES,182 cm,28.91,2200,Very Active,Light Exercise,NV,Energy boost diet
+M,21,Person_74,N,63 kg,NO,166 cm,22.2,2000,Super Active,High intensity Exercise,V,Light Activity Fuel
+F,53,Person_75,N,65 kg,YES,175 cm,22.01,2600,Sedentary,Moderate Exercise,NV,Fitness Diet
+M,44,Person_76,Y,100 kg,YES,187 cm,19.76,3000,Very Active,Sedentary Lifestyle,NV,Energy boost diet
+F,29,Person_77,Y,86 kg,YES,164 cm,21.51,2400,Very Active,Sedentary Lifestyle,NV,Light Activity Fuel
+M,34,Person_78,N,82 kg,YES,177 cm,25.47,2600,Very Active,Moderate Exercise,NV,Energy boost diet
+M,35,Person_79,Y,57 kg,NO,184 cm,20.9,2200,Very Active,High intensity Exercise,NV,Fitness Diet
+F,19,Person_80,N,65 kg,YES,155 cm,22.12,1800,Sedentary,Sedentary Lifestyle,V,Energy boost diet
+M,37,Person_81,Y,93 kg,NO,157 cm,20.33,3000,Sedentary,High intensity Exercise,V,Light Activity Fuel
+F,50,Person_82,Y,100 kg,NO,166 cm,18.64,3000,Sedentary,Sedentary Lifestyle,V,Light Activity Fuel
+F,54,Person_83,Y,70 kg,YES,172 cm,27.69,3000,Lightly Active,High intensity Exercise,NV,Fitness Diet
+M,34,Person_84,Y,75 kg,YES,157 cm,21.04,2200,Moderate,High intensity Exercise,NV,Light Activity Fuel
+F,43,Person_85,N,85 kg,NO,184 cm,21.97,2400,Very Active,Moderate Exercise,NV,Energy boost diet
+F,48,Person_86,N,87 kg,YES,166 cm,28.16,2400,Sedentary,High intensity Exercise,NV,Fitness Diet
+F,44,Person_87,N,85 kg,NO,158 cm,20.22,3100,Sedentary,Moderate Exercise,NV,Fitness Diet
+M,49,Person_88,N,88 kg,YES,157 cm,20.93,3100,Very Active,Sedentary Lifestyle,V,Energy boost diet
+M,51,Person_89,N,58 kg,YES,188 cm,24.87,2800,Lightly Active,Moderate Exercise,NV,Balanced Diet
+M,29,Person_90,Y,65 kg,YES,181 cm,28.31,1800,Sedentary,Sedentary Lifestyle,NV,Balanced Diet
+F,37,Person_91,Y,99 kg,NO,177 cm,22.05,3100,Sedentary,Moderate Exercise,NV,Energy boost diet
+M,23,Person_92,N,57 kg,NO,189 cm,20.31,2600,Moderate,High intensity Exercise,NV,Light Activity Fuel
+F,29,Person_93,N,73 kg,NO,150 cm,29.4,2000,Very Active,High intensity Exercise,NV,Light Activity Fuel
+F,54,Person_94,N,99 kg,NO,151 cm,27.62,2600,Very Active,Moderate Exercise,V,Energy boost diet
+M,21,Person_95,Y,58 kg,YES,156 cm,19.92,3100,Lightly Active,Moderate Exercise,NV,Light Activity Fuel
+M,26,Person_96,N,86 kg,YES,187 cm,27.79,2800,Lightly Active,Sedentary Lifestyle,V,Light Activity Fuel
+F,54,Person_97,Y,50 kg,YES,167 cm,21.5,2800,Moderate,Moderate Exercise,V,Balanced Diet
+M,48,Person_98,N,85 kg,NO,169 cm,28.25,3000,Super Active,High intensity Exercise,V,Fitness Diet
+M,21,Person_99,N,53 kg,YES,174 cm,21.37,2400,Lightly Active,Moderate Exercise,V,Energy boost diet
+M,56,Person_100,Y,76 kg,NO,152 cm,23.97,2400,Super Active,Light Exercise,V,Fitness Diet
+M,36,Person_101,Y,80 kg,YES,168 cm,27.04,2200,Moderate,Sedentary Lifestyle,NV,Light Activity Fuel
+M,21,Person_102,Y,59 kg,YES,154 cm,24.73,3100,Very Active,High intensity Exercise,NV,Balanced Diet
+F,24,Person_103,Y,58 kg,YES,187 cm,25.2,2000,Sedentary,Light Exercise,V,Fitness Diet
+F,51,Person_104,N,81 kg,YES,187 cm,25.78,1800,Sedentary,Sedentary Lifestyle,V,Balanced Diet
+F,18,Person_105,Y,60 kg,YES,154 cm,21.33,2600,Lightly Active,High intensity Exercise,NV,Fitness Diet
+M,56,Person_106,N,82 kg,NO,167 cm,20,2000,Moderate,Moderate Exercise,V,Light Activity Fuel
+M,50,Person_107,Y,76 kg,NO,176 cm,27.92,3000,Sedentary,Moderate Exercise,NV,Balanced Diet
+M,19,Person_108,Y,74 kg,NO,174 cm,19.29,3000,Very Active,Sedentary Lifestyle,V,Balanced Diet
+F,47,Person_109,Y,57 kg,YES,158 cm,22.39,2200,Moderate,Sedentary Lifestyle,NV,Energy boost diet
+M,49,Person_110,Y,86 kg,YES,162 cm,19.62,1800,Super Active,Light Exercise,NV,Light Activity Fuel
+F,51,Person_111,N,99 kg,YES,176 cm,28.05,2200,Sedentary,Light Exercise,V,Energy boost diet
+M,57,Person_112,N,63 kg,YES,169 cm,22.75,3100,Super Active,Sedentary Lifestyle,V,Light Activity Fuel
+M,20,Person_113,N,96 kg,YES,173 cm,23.72,2600,Moderate,High intensity Exercise,NV,Energy boost diet
+F,35,Person_114,Y,61 kg,NO,187 cm,28.42,2400,Super Active,Sedentary Lifestyle,NV,Energy boost diet
+M,59,Person_115,N,75 kg,NO,177 cm,24.87,2800,Very Active,High intensity Exercise,V,Energy boost diet
+M,21,Person_116,Y,53 kg,YES,166 cm,20.13,1800,Lightly Active,High intensity Exercise,NV,Energy boost diet
+M,22,Person_117,Y,58 kg,YES,152 cm,24.68,3000,Sedentary,Sedentary Lifestyle,NV,Balanced Diet
+M,46,Person_118,N,56 kg,YES,153 cm,23.78,2000,Very Active,Sedentary Lifestyle,NV,Light Activity Fuel
+M,43,Person_119,N,54 kg,NO,180 cm,20.45,1800,Sedentary,Sedentary Lifestyle,NV,Balanced Diet
+M,22,Person_120,Y,70 kg,YES,172 cm,21.13,1800,Very Active,Moderate Exercise,NV,Energy boost diet
+F,39,Person_121,N,65 kg,YES,171 cm,23.11,2800,Lightly Active,High intensity Exercise,NV,Fitness Diet
+F,58,Person_122,N,86 kg,YES,155 cm,22.06,2000,Very Active,Moderate Exercise,V,Light Activity Fuel
+M,49,Person_123,N,72 kg,YES,179 cm,22.22,2000,Lightly Active,High intensity Exercise,V,Fitness Diet
+F,19,Person_124,N,91 kg,NO,166 cm,23.63,3100,Super Active,Moderate Exercise,V,Balanced Diet
+F,26,Person_125,Y,50 kg,YES,180 cm,23.76,1800,Sedentary,Light Exercise,V,Energy boost diet
+M,21,Person_126,Y,69 kg,NO,189 cm,26.66,2600,Moderate,Moderate Exercise,NV,Fitness Diet
+M,26,Person_127,N,59 kg,NO,186 cm,28.05,2200,Super Active,Moderate Exercise,NV,Energy boost diet
+F,19,Person_128,Y,69 kg,NO,186 cm,23.26,1800,Sedentary,Sedentary Lifestyle,V,Light Activity Fuel
+M,49,Person_129,N,75 kg,YES,173 cm,27.67,3000,Lightly Active,High intensity Exercise,V,Balanced Diet
+M,49,Person_130,N,84 kg,NO,170 cm,29.6,2000,Moderate,Sedentary Lifestyle,V,Energy boost diet
+M,44,Person_131,Y,94 kg,NO,189 cm,26.04,2200,Very Active,Sedentary Lifestyle,NV,Light Activity Fuel
+F,57,Person_132,N,51 kg,NO,177 cm,27.61,2000,Super Active,Light Exercise,V,Energy boost diet
+F,53,Person_133,N,64 kg,YES,164 cm,25.18,2600,Sedentary,High intensity Exercise,V,Energy boost diet
+M,26,Person_134,N,61 kg,YES,169 cm,20.2,2800,Sedentary,Sedentary Lifestyle,NV,Light Activity Fuel
+F,44,Person_135,Y,73 kg,NO,154 cm,26.98,2600,Very Active,High intensity Exercise,V,Fitness Diet
+F,39,Person_136,N,73 kg,YES,155 cm,29.43,2600,Very Active,Light Exercise,NV,Energy boost diet
+M,24,Person_137,Y,73 kg,NO,162 cm,25.07,2800,Super Active,Light Exercise,NV,Balanced Diet
+M,29,Person_138,Y,88 kg,YES,182 cm,24.63,3100,Sedentary,High intensity Exercise,NV,Fitness Diet
+M,51,Person_139,Y,93 kg,NO,173 cm,19.26,2400,Lightly Active,Moderate Exercise,V,Fitness Diet
+M,27,Person_140,Y,59 kg,NO,156 cm,21.56,2800,Super Active,High intensity Exercise,V,Fitness Diet
+M,18,Person_141,Y,84 kg,NO,151 cm,20.03,2800,Very Active,Light Exercise,NV,Energy boost diet
+F,20,Person_142,Y,66 kg,NO,185 cm,22.54,2400,Moderate,Moderate Exercise,NV,Balanced Diet
+M,55,Person_143,N,63 kg,NO,188 cm,23.6,2400,Super Active,Light Exercise,NV,Balanced Diet
+M,32,Person_144,N,92 kg,NO,183 cm,22.73,3000,Very Active,Moderate Exercise,NV,Light Activity Fuel
+F,28,Person_145,Y,98 kg,NO,173 cm,26.92,2600,Sedentary,Moderate Exercise,V,Fitness Diet
+F,39,Person_146,Y,51 kg,YES,157 cm,24.32,2600,Very Active,Light Exercise,V,Fitness Diet
+M,57,Person_147,Y,74 kg,NO,184 cm,27.35,2600,Super Active,Light Exercise,NV,Fitness Diet
+F,56,Person_148,N,99 kg,NO,174 cm,28.81,2600,Lightly Active,Sedentary Lifestyle,NV,Balanced Diet
+F,50,Person_149,Y,89 kg,NO,175 cm,26.23,2400,Sedentary,Sedentary Lifestyle,NV,Light Activity Fuel
+M,42,Person_150,Y,53 kg,YES,151 cm,28.93,2400,Super Active,Sedentary Lifestyle,V,Balanced Diet
+M,35,Person_151,Y,56 kg,YES,188 cm,23.16,1800,Sedentary,Light Exercise,V,Light Activity Fuel
+M,42,Person_152,N,76 kg,YES,173 cm,23.38,1800,Sedentary,High intensity Exercise,V,Fitness Diet
+F,19,Person_153,Y,61 kg,NO,177 cm,26.39,2000,Moderate,High intensity Exercise,NV,Energy boost diet
+F,25,Person_154,Y,64 kg,NO,175 cm,23,3100,Moderate,Sedentary Lifestyle,NV,Fitness Diet
+F,24,Person_155,Y,81 kg,YES,161 cm,23.81,2800,Very Active,Light Exercise,V,Energy boost diet
+F,35,Person_156,N,73 kg,NO,152 cm,22.1,2800,Very Active,Sedentary Lifestyle,NV,Light Activity Fuel
+F,48,Person_157,Y,52 kg,NO,190 cm,19.63,1800,Super Active,High intensity Exercise,NV,Balanced Diet
+F,21,Person_158,Y,92 kg,NO,177 cm,20.62,2400,Very Active,Sedentary Lifestyle,NV,Balanced Diet
+M,52,Person_159,N,75 kg,NO,176 cm,24.41,3000,Super Active,Sedentary Lifestyle,V,Light Activity Fuel
+M,44,Person_160,Y,68 kg,NO,167 cm,27.91,2400,Lightly Active,Moderate Exercise,V,Light Activity Fuel
+M,48,Person_161,N,53 kg,YES,150 cm,22.48,2200,Sedentary,Light Exercise,V,Fitness Diet
+M,50,Person_162,N,97 kg,YES,177 cm,20.68,2200,Super Active,Moderate Exercise,V,Light Activity Fuel
+F,20,Person_163,Y,63 kg,NO,165 cm,29.36,3000,Lightly Active,Sedentary Lifestyle,V,Fitness Diet
+M,56,Person_164,N,85 kg,YES,155 cm,28.47,2600,Moderate,High intensity Exercise,NV,Light Activity Fuel
+M,20,Person_165,N,63 kg,NO,163 cm,18.66,2200,Super Active,Light Exercise,V,Light Activity Fuel
+F,55,Person_166,N,86 kg,YES,178 cm,25.33,3000,Sedentary,Sedentary Lifestyle,V,Light Activity Fuel
+F,22,Person_167,Y,80 kg,NO,169 cm,25.27,2600,Very Active,Moderate Exercise,NV,Energy boost diet
+M,42,Person_168,Y,68 kg,YES,190 cm,27.52,2800,Super Active,Sedentary Lifestyle,NV,Balanced Diet
+F,55,Person_169,N,58 kg,NO,176 cm,24.79,2800,Sedentary,Light Exercise,NV,Balanced Diet
+F,32,Person_170,Y,56 kg,NO,155 cm,29.68,2200,Super Active,Sedentary Lifestyle,NV,Light Activity Fuel
+M,27,Person_171,Y,76 kg,YES,163 cm,23.1,2800,Moderate,High intensity Exercise,V,Light Activity Fuel
+M,43,Person_172,N,98 kg,YES,156 cm,20.32,2400,Very Active,High intensity Exercise,V,Balanced Diet
+M,30,Person_173,N,85 kg,NO,169 cm,19.77,3100,Very Active,Light Exercise,V,Light Activity Fuel
+M,18,Person_174,Y,67 kg,NO,160 cm,22.03,2600,Super Active,High intensity Exercise,V,Fitness Diet
+F,43,Person_175,Y,82 kg,YES,159 cm,21.62,3100,Very Active,Moderate Exercise,V,Light Activity Fuel
+M,34,Person_176,N,100 kg,YES,156 cm,19.49,2400,Lightly Active,Light Exercise,V,Light Activity Fuel
+M,49,Person_177,Y,89 kg,YES,162 cm,27.69,2000,Sedentary,Moderate Exercise,V,Balanced Diet
+F,26,Person_178,N,90 kg,NO,164 cm,19.83,3100,Very Active,Sedentary Lifestyle,V,Light Activity Fuel
+F,35,Person_179,N,54 kg,YES,181 cm,27.67,3000,Super Active,High intensity Exercise,NV,Balanced Diet
+F,25,Person_180,Y,69 kg,NO,177 cm,26.12,3100,Sedentary,High intensity Exercise,V,Light Activity Fuel
+M,48,Person_181,N,73 kg,YES,188 cm,28.06,2600,Sedentary,High intensity Exercise,V,Fitness Diet
+M,55,Person_182,N,83 kg,NO,154 cm,24.99,1800,Super Active,High intensity Exercise,V,Fitness Diet
+M,56,Person_183,Y,95 kg,NO,162 cm,18.93,2400,Moderate,Light Exercise,V,Fitness Diet
+F,36,Person_184,Y,51 kg,YES,180 cm,26.13,3100,Very Active,Moderate Exercise,NV,Light Activity Fuel
+M,40,Person_185,Y,66 kg,YES,175 cm,27.56,2800,Moderate,Moderate Exercise,V,Fitness Diet
+F,34,Person_186,N,77 kg,YES,184 cm,27.56,2200,Sedentary,High intensity Exercise,NV,Light Activity Fuel
+M,47,Person_187,Y,99 kg,YES,156 cm,27.87,2200,Very Active,High intensity Exercise,NV,Fitness Diet
+M,24,Person_188,N,94 kg,YES,189 cm,18.76,3000,Super Active,Sedentary Lifestyle,NV,Fitness Diet
+M,49,Person_189,Y,67 kg,YES,186 cm,21.07,2200,Super Active,Moderate Exercise,V,Balanced Diet
+F,21,Person_190,N,67 kg,YES,182 cm,19.73,2600,Moderate,High intensity Exercise,NV,Fitness Diet
+M,45,Person_191,N,58 kg,NO,161 cm,23.4,2800,Sedentary,Moderate Exercise,V,Energy boost diet
+M,20,Person_192,N,65 kg,YES,158 cm,18.79,2400,Super Active,High intensity Exercise,NV,Energy boost diet
+F,32,Person_193,Y,80 kg,NO,186 cm,25.92,2400,Super Active,Sedentary Lifestyle,V,Light Activity Fuel
+F,58,Person_194,N,75 kg,NO,183 cm,26.36,2800,Moderate,Moderate Exercise,NV,Energy boost diet
+F,34,Person_195,N,98 kg,NO,166 cm,23.88,2000,Very Active,High intensity Exercise,NV,Light Activity Fuel
+F,54,Person_196,Y,55 kg,YES,176 cm,29.11,2800,Lightly Active,Light Exercise,NV,Fitness Diet
+M,33,Person_197,Y,94 kg,NO,150 cm,23.42,3000,Lightly Active,Moderate Exercise,NV,Fitness Diet
+M,51,Person_198,Y,61 kg,NO,188 cm,22.24,2000,Super Active,High intensity Exercise,NV,Light Activity Fuel
+M,58,Person_199,Y,90 kg,YES,161 cm,23.04,1800,Lightly Active,Moderate Exercise,V,Energy boost diet
+F,45,Person_200,Y,82 kg,NO,179 cm,24.11,2400,Lightly Active,Moderate Exercise,NV,Energy boost diet
+F,48,Person_201,Y,50 kg,YES,170 cm,19.68,2000,Very Active,High intensity Exercise,NV,Fitness Diet
+F,27,Person_202,N,81 kg,YES,165 cm,19.11,3000,Lightly Active,Moderate Exercise,V,Balanced Diet
+F,52,Person_203,Y,72 kg,NO,153 cm,20.85,2800,Sedentary,High intensity Exercise,V,Energy boost diet
+F,31,Person_204,Y,66 kg,NO,189 cm,20.02,2000,Lightly Active,High intensity Exercise,NV,Energy boost diet
+F,21,Person_205,N,90 kg,YES,185 cm,21.18,2400,Very Active,High intensity Exercise,V,Balanced Diet
+F,54,Person_206,Y,75 kg,NO,181 cm,26.09,2000,Sedentary,Light Exercise,NV,Light Activity Fuel
+F,51,Person_207,N,68 kg,YES,176 cm,27.62,2200,Moderate,Light Exercise,V,Light Activity Fuel
+M,35,Person_208,N,57 kg,YES,181 cm,22.03,2800,Moderate,Light Exercise,V,Energy boost diet
+M,28,Person_209,Y,57 kg,NO,174 cm,20.66,2200,Moderate,High intensity Exercise,NV,Balanced Diet
+M,54,Person_210,N,100 kg,NO,183 cm,20.73,2200,Very Active,Light Exercise,NV,Light Activity Fuel
+M,29,Person_211,Y,73 kg,YES,157 cm,29.76,2400,Lightly Active,Light Exercise,NV,Balanced Diet
+M,19,Person_212,N,60 kg,NO,178 cm,20.23,2000,Super Active,Light Exercise,V,Energy boost diet
+F,25,Person_213,N,90 kg,YES,168 cm,23.63,2400,Sedentary,Moderate Exercise,NV,Balanced Diet
+M,24,Person_214,Y,81 kg,NO,187 cm,29.89,3100,Very Active,High intensity Exercise,NV,Fitness Diet
+M,49,Person_215,N,61 kg,NO,171 cm,22.92,2400,Very Active,High intensity Exercise,NV,Fitness Diet
+F,44,Person_216,Y,78 kg,YES,153 cm,24.82,2800,Super Active,Moderate Exercise,NV,Balanced Diet
+M,33,Person_217,N,86 kg,YES,160 cm,22.62,2200,Super Active,Moderate Exercise,NV,Light Activity Fuel
+F,27,Person_218,N,83 kg,NO,165 cm,27.06,2400,Moderate,Sedentary Lifestyle,V,Fitness Diet
+M,57,Person_219,Y,82 kg,NO,158 cm,18.56,2600,Sedentary,High intensity Exercise,V,Light Activity Fuel
+M,24,Person_220,N,84 kg,NO,171 cm,28.96,2800,Lightly Active,Sedentary Lifestyle,V,Light Activity Fuel
+M,34,Person_221,N,66 kg,NO,190 cm,24.18,1800,Super Active,High intensity Exercise,V,Fitness Diet
+F,29,Person_222,N,98 kg,YES,152 cm,28.04,3100,Sedentary,High intensity Exercise,NV,Fitness Diet
+F,24,Person_223,N,85 kg,YES,166 cm,21.01,2200,Super Active,Light Exercise,NV,Energy boost diet
+F,58,Person_224,Y,58 kg,YES,175 cm,25.72,2000,Moderate,Moderate Exercise,NV,Light Activity Fuel
+F,28,Person_225,Y,51 kg,YES,180 cm,23.43,2800,Super Active,Moderate Exercise,V,Light Activity Fuel
+F,33,Person_226,N,99 kg,YES,173 cm,19.69,3100,Lightly Active,Moderate Exercise,V,Light Activity Fuel
+F,38,Person_227,N,61 kg,NO,190 cm,23.84,1800,Super Active,High intensity Exercise,V,Fitness Diet
+F,30,Person_228,N,78 kg,YES,174 cm,27.25,2800,Super Active,Light Exercise,NV,Light Activity Fuel
+M,37,Person_229,Y,51 kg,NO,180 cm,26.65,2400,Sedentary,Moderate Exercise,NV,Energy boost diet
+M,59,Person_230,N,100 kg,NO,152 cm,24.85,2000,Very Active,Sedentary Lifestyle,NV,Energy boost diet
+M,43,Person_231,N,63 kg,NO,154 cm,27.24,2600,Moderate,High intensity Exercise,NV,Energy boost diet
+F,47,Person_232,N,100 kg,NO,190 cm,19.15,2600,Lightly Active,High intensity Exercise,V,Fitness Diet
+F,58,Person_233,N,76 kg,YES,186 cm,28.96,3100,Super Active,Sedentary Lifestyle,V,Energy boost diet
+M,28,Person_234,N,80 kg,NO,161 cm,19.73,2800,Lightly Active,High intensity Exercise,NV,Energy boost diet
+M,30,Person_235,Y,94 kg,YES,187 cm,25.52,2200,Super Active,High intensity Exercise,V,Light Activity Fuel
+F,50,Person_236,N,77 kg,NO,168 cm,29.17,2600,Moderate,Light Exercise,NV,Energy boost diet
+M,35,Person_237,Y,97 kg,NO,153 cm,21.22,2600,Moderate,Light Exercise,V,Fitness Diet
+F,26,Person_238,Y,93 kg,YES,189 cm,28.13,1800,Moderate,Light Exercise,NV,Balanced Diet
+F,55,Person_239,Y,77 kg,NO,185 cm,22.16,2400,Very Active,Moderate Exercise,NV,Balanced Diet
+F,23,Person_240,Y,59 kg,YES,158 cm,21.28,3100,Very Active,Moderate Exercise,NV,Fitness Diet
+F,43,Person_241,Y,67 kg,NO,190 cm,20.23,2800,Lightly Active,Moderate Exercise,NV,Energy boost diet
+F,30,Person_242,N,97 kg,YES,164 cm,26.32,2600,Moderate,Light Exercise,NV,Balanced Diet
+M,25,Person_243,N,55 kg,YES,157 cm,23.99,2200,Lightly Active,Moderate Exercise,NV,Fitness Diet
+M,25,Person_244,Y,55 kg,NO,165 cm,20.79,3000,Sedentary,Sedentary Lifestyle,V,Light Activity Fuel
+M,31,Person_245,N,92 kg,NO,190 cm,24.89,2400,Super Active,High intensity Exercise,NV,Balanced Diet
+M,19,Person_246,Y,93 kg,NO,157 cm,29.06,3000,Sedentary,Moderate Exercise,V,Fitness Diet
+M,55,Person_247,N,53 kg,NO,187 cm,21.83,2000,Lightly Active,High intensity Exercise,NV,Energy boost diet
+F,52,Person_248,N,83 kg,YES,184 cm,25.6,2400,Super Active,High intensity Exercise,NV,Balanced Diet
+F,19,Person_249,Y,91 kg,NO,152 cm,24.05,2800,Sedentary,High intensity Exercise,NV,Light Activity Fuel
+M,19,Person_250,Y,78 kg,NO,171 cm,23.08,3000,Lightly Active,Light Exercise,V,Light Activity Fuel
+M,22,Person_251,Y,64 kg,NO,151 cm,25.75,1800,Sedentary,Sedentary Lifestyle,V,Balanced Diet
+M,48,Person_252,Y,76 kg,NO,168 cm,22.38,3100,Sedentary,Moderate Exercise,V,Light Activity Fuel
+M,56,Person_253,N,74 kg,YES,181 cm,25.21,2600,Super Active,High intensity Exercise,NV,Balanced Diet
+M,22,Person_254,N,85 kg,YES,168 cm,24.48,2000,Lightly Active,High intensity Exercise,NV,Light Activity Fuel
+M,26,Person_255,Y,71 kg,YES,179 cm,20.28,2000,Lightly Active,Light Exercise,NV,Fitness Diet
+M,19,Person_256,Y,92 kg,NO,163 cm,23.21,2800,Lightly Active,High intensity Exercise,NV,Balanced Diet
+M,22,Person_257,N,84 kg,YES,170 cm,23.78,1800,Very Active,Moderate Exercise,NV,Energy boost diet
+F,30,Person_258,N,94 kg,YES,170 cm,21.39,2600,Moderate,Sedentary Lifestyle,V,Balanced Diet
+M,21,Person_259,Y,57 kg,NO,186 cm,22.97,2000,Lightly Active,Moderate Exercise,NV,Energy boost diet
+F,32,Person_260,N,93 kg,NO,170 cm,24.97,3100,Super Active,Light Exercise,NV,Balanced Diet
+F,39,Person_261,Y,57 kg,YES,187 cm,28.18,2000,Super Active,High intensity Exercise,V,Balanced Diet
+F,23,Person_262,N,98 kg,NO,180 cm,21.93,2400,Sedentary,Sedentary Lifestyle,NV,Light Activity Fuel
+M,25,Person_263,N,65 kg,YES,177 cm,18.82,2800,Sedentary,Light Exercise,V,Fitness Diet
+M,27,Person_264,Y,50 kg,NO,166 cm,29.12,2600,Very Active,Light Exercise,V,Light Activity Fuel
+M,20,Person_265,Y,69 kg,YES,176 cm,23,3100,Very Active,Light Exercise,NV,Balanced Diet
+F,40,Person_266,N,85 kg,YES,175 cm,26.62,1800,Super Active,Moderate Exercise,NV,Balanced Diet
+M,28,Person_267,Y,63 kg,YES,180 cm,29.21,2600,Very Active,Sedentary Lifestyle,V,Fitness Diet
+F,27,Person_268,N,82 kg,NO,160 cm,24.38,2000,Super Active,Moderate Exercise,NV,Light Activity Fuel
+F,56,Person_269,Y,51 kg,NO,174 cm,19.59,2000,Very Active,Moderate Exercise,NV,Light Activity Fuel
+M,19,Person_270,N,97 kg,YES,189 cm,28.47,3100,Sedentary,Sedentary Lifestyle,NV,Balanced Diet
+F,45,Person_271,N,72 kg,YES,177 cm,22.63,2000,Lightly Active,Moderate Exercise,V,Light Activity Fuel
+F,35,Person_272,N,61 kg,NO,183 cm,26.23,2800,Sedentary,Sedentary Lifestyle,V,Light Activity Fuel
+F,52,Person_273,Y,60 kg,YES,178 cm,24.75,1800,Sedentary,Light Exercise,V,Balanced Diet
+M,30,Person_274,Y,100 kg,NO,153 cm,24.51,2200,Very Active,Moderate Exercise,NV,Fitness Diet
+F,44,Person_275,N,59 kg,YES,157 cm,26.35,2600,Moderate,Sedentary Lifestyle,NV,Light Activity Fuel
+M,39,Person_276,N,100 kg,YES,161 cm,19.79,2800,Very Active,High intensity Exercise,NV,Fitness Diet
+M,21,Person_277,Y,74 kg,YES,159 cm,21.66,3100,Moderate,High intensity Exercise,V,Fitness Diet
+F,33,Person_278,N,89 kg,NO,161 cm,20,1800,Sedentary,Sedentary Lifestyle,V,Fitness Diet
+M,47,Person_279,Y,50 kg,YES,162 cm,21.75,2000,Moderate,Light Exercise,V,Energy boost diet
+M,51,Person_280,N,86 kg,YES,152 cm,27.47,3000,Sedentary,Sedentary Lifestyle,NV,Light Activity Fuel
+F,51,Person_281,N,84 kg,YES,154 cm,29.21,2200,Lightly Active,High intensity Exercise,V,Light Activity Fuel
+F,38,Person_282,N,98 kg,YES,185 cm,21.05,2800,Super Active,Sedentary Lifestyle,V,Light Activity Fuel
+F,39,Person_283,Y,90 kg,YES,156 cm,24.71,2400,Super Active,Light Exercise,V,Fitness Diet
+F,46,Person_284,Y,69 kg,YES,162 cm,19.93,3100,Very Active,Sedentary Lifestyle,V,Light Activity Fuel
+F,54,Person_285,N,56 kg,NO,182 cm,26.7,1800,Super Active,High intensity Exercise,V,Energy boost diet
+F,31,Person_286,Y,71 kg,YES,177 cm,18.85,2400,Moderate,High intensity Exercise,NV,Energy boost diet
+M,21,Person_287,Y,94 kg,NO,158 cm,25.55,3000,Super Active,Sedentary Lifestyle,NV,Energy boost diet
+F,54,Person_288,N,93 kg,YES,153 cm,19.76,2000,Super Active,Moderate Exercise,V,Fitness Diet
+F,22,Person_289,Y,93 kg,NO,150 cm,19.32,2600,Lightly Active,Moderate Exercise,V,Light Activity Fuel
+F,37,Person_290,N,87 kg,NO,167 cm,22.04,2600,Moderate,High intensity Exercise,V,Balanced Diet
+F,42,Person_291,N,93 kg,NO,154 cm,25.3,1800,Sedentary,Light Exercise,V,Energy boost diet
+M,54,Person_292,N,50 kg,NO,166 cm,27.87,2000,Lightly Active,High intensity Exercise,V,Light Activity Fuel
+F,26,Person_293,N,56 kg,YES,176 cm,21.88,2600,Moderate,High intensity Exercise,NV,Energy boost diet
+F,47,Person_294,Y,79 kg,YES,181 cm,20.09,1800,Super Active,Light Exercise,V,Fitness Diet
+M,39,Person_295,Y,63 kg,YES,168 cm,21.09,2000,Very Active,Light Exercise,NV,Light Activity Fuel
+F,32,Person_296,N,97 kg,YES,163 cm,21.82,2400,Super Active,Light Exercise,NV,Balanced Diet
+M,42,Person_297,Y,70 kg,YES,167 cm,22.48,2000,Lightly Active,High intensity Exercise,V,Energy boost diet
+F,54,Person_298,N,66 kg,YES,169 cm,29.56,3100,Lightly Active,Light Exercise,NV,Balanced Diet
+F,49,Person_299,Y,71 kg,NO,175 cm,23.05,3000,Super Active,Sedentary Lifestyle,NV,Light Activity Fuel
+M,33,Person_300,N,50 kg,NO,190 cm,27.62,2600,Lightly Active,Light Exercise,V,Fitness Diet
+F,18,Person_301,N,100 kg,YES,170 cm,24.8,3100,Moderate,Light Exercise,NV,Light Activity Fuel
+F,46,Person_302,N,97 kg,YES,168 cm,19.61,2200,Sedentary,Moderate Exercise,NV,Light Activity Fuel
+M,33,Person_303,Y,86 kg,YES,161 cm,27.71,2800,Super Active,Moderate Exercise,NV,Fitness Diet
+M,40,Person_304,Y,93 kg,YES,187 cm,25.43,2600,Lightly Active,Sedentary Lifestyle,V,Balanced Diet
+M,56,Person_305,N,89 kg,NO,180 cm,21.27,2600,Very Active,High intensity Exercise,V,Balanced Diet
+F,57,Person_306,N,72 kg,NO,189 cm,28.98,2200,Sedentary,Light Exercise,NV,Light Activity Fuel
+F,28,Person_307,N,62 kg,YES,185 cm,23.03,2200,Lightly Active,Light Exercise,NV,Energy boost diet
+F,33,Person_308,Y,74 kg,YES,168 cm,24.72,1800,Moderate,Moderate Exercise,V,Energy boost diet
+F,37,Person_309,Y,60 kg,YES,166 cm,22.93,2600,Sedentary,Moderate Exercise,V,Light Activity Fuel
+F,59,Person_310,N,89 kg,NO,179 cm,19.05,3000,Very Active,Moderate Exercise,NV,Light Activity Fuel
+F,44,Person_311,N,58 kg,NO,162 cm,23.35,1800,Moderate,Light Exercise,NV,Fitness Diet
+F,20,Person_312,Y,95 kg,NO,155 cm,20.19,3100,Super Active,Light Exercise,V,Fitness Diet
+M,41,Person_313,N,72 kg,NO,170 cm,19.58,2600,Sedentary,Moderate Exercise,NV,Fitness Diet
+M,50,Person_314,N,79 kg,YES,184 cm,29.07,3100,Super Active,High intensity Exercise,V,Light Activity Fuel
+F,19,Person_315,N,85 kg,NO,190 cm,19.08,3100,Super Active,High intensity Exercise,NV,Fitness Diet
+F,33,Person_316,N,85 kg,YES,182 cm,28.38,2400,Very Active,High intensity Exercise,V,Fitness Diet
+F,21,Person_317,Y,75 kg,NO,162 cm,29.98,3100,Moderate,High intensity Exercise,NV,Balanced Diet
+M,22,Person_318,Y,67 kg,NO,169 cm,27.44,3000,Super Active,Moderate Exercise,NV,Balanced Diet
+F,42,Person_319,N,76 kg,NO,160 cm,22.33,3000,Lightly Active,Sedentary Lifestyle,NV,Fitness Diet
+M,35,Person_320,N,62 kg,YES,172 cm,27.65,1800,Very Active,Sedentary Lifestyle,NV,Energy boost diet
+F,28,Person_321,Y,89 kg,YES,180 cm,25.16,2000,Sedentary,Sedentary Lifestyle,V,Fitness Diet
+F,54,Person_322,Y,68 kg,NO,161 cm,20.61,2600,Very Active,High intensity Exercise,NV,Light Activity Fuel
+F,34,Person_323,N,75 kg,NO,163 cm,25.11,1800,Sedentary,High intensity Exercise,NV,Energy boost diet
+F,40,Person_324,Y,89 kg,YES,175 cm,23.3,2800,Very Active,Moderate Exercise,NV,Light Activity Fuel
+F,30,Person_325,Y,76 kg,NO,178 cm,25.89,2400,Sedentary,High intensity Exercise,NV,Fitness Diet
+M,55,Person_326,N,90 kg,YES,157 cm,27.69,1800,Very Active,Moderate Exercise,V,Energy boost diet
+M,30,Person_327,N,87 kg,YES,150 cm,20.55,2600,Lightly Active,Light Exercise,V,Energy boost diet
+F,55,Person_328,Y,65 kg,NO,185 cm,23.47,2600,Sedentary,Light Exercise,NV,Fitness Diet
+M,32,Person_329,Y,94 kg,YES,185 cm,24.7,2800,Sedentary,Moderate Exercise,V,Fitness Diet
+M,51,Person_330,N,75 kg,YES,178 cm,18.67,2000,Sedentary,Moderate Exercise,V,Energy boost diet
+F,26,Person_331,Y,52 kg,YES,156 cm,29.25,2800,Very Active,Moderate Exercise,NV,Energy boost diet
+F,39,Person_332,N,88 kg,NO,184 cm,24.53,3000,Super Active,High intensity Exercise,NV,Fitness Diet
+M,18,Person_333,N,94 kg,YES,178 cm,29.4,2200,Super Active,Moderate Exercise,NV,Energy boost diet
+F,52,Person_334,N,74 kg,YES,161 cm,23.22,2400,Moderate,High intensity Exercise,V,Light Activity Fuel
+F,21,Person_335,N,96 kg,NO,184 cm,21.3,2800,Super Active,Light Exercise,V,Energy boost diet
+M,32,Person_336,Y,97 kg,NO,190 cm,19.89,2600,Very Active,High intensity Exercise,NV,Fitness Diet
+M,43,Person_337,N,71 kg,NO,165 cm,23.2,2400,Super Active,Light Exercise,NV,Light Activity Fuel
+M,27,Person_338,Y,68 kg,YES,175 cm,19.66,2000,Lightly Active,High intensity Exercise,V,Balanced Diet
+F,53,Person_339,Y,62 kg,NO,151 cm,20.9,2600,Very Active,Light Exercise,NV,Energy boost diet
+F,46,Person_340,Y,84 kg,NO,162 cm,20.89,2200,Sedentary,Moderate Exercise,V,Fitness Diet
+M,26,Person_341,N,78 kg,YES,181 cm,26.74,3100,Very Active,Moderate Exercise,NV,Balanced Diet
+F,45,Person_342,Y,95 kg,YES,174 cm,26.15,2200,Super Active,Light Exercise,NV,Balanced Diet
+F,51,Person_343,N,87 kg,YES,182 cm,24.45,3000,Moderate,Moderate Exercise,NV,Energy boost diet
+F,31,Person_344,N,59 kg,NO,174 cm,26.7,2200,Super Active,High intensity Exercise,NV,Energy boost diet
+F,56,Person_345,Y,72 kg,YES,160 cm,25.66,1800,Lightly Active,Sedentary Lifestyle,NV,Balanced Diet
+F,41,Person_346,N,96 kg,YES,186 cm,20.28,2400,Moderate,High intensity Exercise,V,Light Activity Fuel
+F,20,Person_347,N,94 kg,YES,180 cm,21.55,2800,Sedentary,Moderate Exercise,V,Balanced Diet
+M,32,Person_348,N,63 kg,YES,166 cm,28.82,2000,Moderate,Moderate Exercise,NV,Energy boost diet
+F,43,Person_349,Y,64 kg,NO,187 cm,28.29,2200,Lightly Active,Light Exercise,NV,Energy boost diet
+F,37,Person_350,Y,82 kg,NO,188 cm,24.32,2200,Very Active,Moderate Exercise,V,Balanced Diet
+F,39,Person_351,Y,67 kg,YES,177 cm,22.78,2600,Sedentary,Sedentary Lifestyle,NV,Fitness Diet
+M,53,Person_352,Y,91 kg,NO,158 cm,18.97,2400,Very Active,Moderate Exercise,NV,Energy boost diet
+M,40,Person_353,Y,92 kg,NO,151 cm,26.03,2200,Moderate,High intensity Exercise,V,Light Activity Fuel
+F,55,Person_354,Y,92 kg,NO,184 cm,20.79,1800,Lightly Active,Light Exercise,V,Light Activity Fuel
+F,47,Person_355,N,96 kg,YES,176 cm,24.18,2400,Super Active,Light Exercise,NV,Fitness Diet
+M,54,Person_356,Y,75 kg,NO,156 cm,22.24,2000,Lightly Active,Sedentary Lifestyle,NV,Light Activity Fuel
+M,51,Person_357,N,67 kg,YES,162 cm,22.53,3000,Very Active,Light Exercise,V,Light Activity Fuel
+F,20,Person_358,Y,88 kg,NO,167 cm,19.09,1800,Very Active,Moderate Exercise,NV,Energy boost diet
+F,39,Person_359,N,65 kg,YES,160 cm,21.44,2200,Lightly Active,Sedentary Lifestyle,V,Balanced Diet
+F,22,Person_360,Y,63 kg,NO,172 cm,24.09,2400,Lightly Active,High intensity Exercise,V,Light Activity Fuel
+M,31,Person_361,N,77 kg,NO,186 cm,19.44,1800,Moderate,Sedentary Lifestyle,NV,Light Activity Fuel
+M,39,Person_362,Y,94 kg,YES,185 cm,21.18,3100,Very Active,Light Exercise,V,Balanced Diet
+M,27,Person_363,Y,57 kg,YES,188 cm,24.74,2600,Moderate,Sedentary Lifestyle,NV,Balanced Diet
+F,46,Person_364,Y,76 kg,NO,166 cm,26.22,3000,Moderate,Sedentary Lifestyle,NV,Balanced Diet
+F,25,Person_365,Y,88 kg,NO,155 cm,25.91,1800,Super Active,Sedentary Lifestyle,NV,Light Activity Fuel
+F,25,Person_366,N,52 kg,YES,185 cm,22.59,3000,Sedentary,High intensity Exercise,V,Light Activity Fuel
+F,40,Person_367,Y,96 kg,NO,186 cm,19.89,2600,Very Active,Moderate Exercise,NV,Light Activity Fuel
+M,34,Person_368,Y,53 kg,YES,180 cm,28.27,2800,Sedentary,High intensity Exercise,V,Balanced Diet
+F,20,Person_369,N,98 kg,YES,185 cm,23.15,3000,Moderate,Sedentary Lifestyle,NV,Light Activity Fuel
+F,43,Person_370,Y,100 kg,YES,150 cm,25.78,2000,Super Active,High intensity Exercise,NV,Energy boost diet
+F,38,Person_371,N,96 kg,YES,150 cm,23.92,3100,Moderate,Moderate Exercise,NV,Light Activity Fuel
+M,48,Person_372,Y,78 kg,NO,167 cm,28.15,2000,Sedentary,Light Exercise,NV,Balanced Diet
+M,49,Person_373,N,66 kg,NO,181 cm,26.46,3000,Sedentary,Light Exercise,NV,Light Activity Fuel
+M,50,Person_374,Y,76 kg,NO,160 cm,27.48,2200,Super Active,Sedentary Lifestyle,V,Balanced Diet
+M,19,Person_375,N,91 kg,YES,159 cm,23.05,2800,Very Active,High intensity Exercise,NV,Fitness Diet
+F,25,Person_376,Y,66 kg,YES,189 cm,22.48,2000,Super Active,High intensity Exercise,V,Energy boost diet
+F,44,Person_377,N,85 kg,NO,188 cm,19.58,2400,Very Active,High intensity Exercise,NV,Light Activity Fuel
+M,42,Person_378,Y,90 kg,YES,181 cm,27.2,2200,Moderate,Sedentary Lifestyle,NV,Balanced Diet
+M,28,Person_379,N,69 kg,NO,170 cm,23.68,1800,Moderate,High intensity Exercise,NV,Light Activity Fuel
+M,27,Person_380,Y,88 kg,NO,153 cm,21.28,2800,Moderate,Light Exercise,NV,Fitness Diet
+M,24,Person_381,Y,51 kg,NO,183 cm,29.6,2800,Lightly Active,High intensity Exercise,V,Energy boost diet
+F,57,Person_382,Y,67 kg,NO,163 cm,21.03,2800,Sedentary,High intensity Exercise,V,Fitness Diet
+M,56,Person_383,Y,77 kg,NO,188 cm,22.03,2800,Very Active,High intensity Exercise,NV,Fitness Diet
+M,52,Person_384,Y,50 kg,YES,190 cm,21.47,3000,Moderate,Moderate Exercise,V,Fitness Diet
+M,47,Person_385,N,93 kg,YES,154 cm,25.45,2000,Lightly Active,Sedentary Lifestyle,NV,Light Activity Fuel
+F,25,Person_386,N,64 kg,NO,158 cm,27.91,3100,Sedentary,Sedentary Lifestyle,V,Light Activity Fuel
+F,41,Person_387,N,72 kg,NO,183 cm,24.89,2200,Moderate,High intensity Exercise,V,Fitness Diet
+M,40,Person_388,Y,53 kg,YES,176 cm,28.07,2200,Very Active,High intensity Exercise,V,Energy boost diet
+F,50,Person_389,Y,61 kg,NO,187 cm,26.49,3100,Moderate,High intensity Exercise,NV,Light Activity Fuel
+F,43,Person_390,N,90 kg,NO,187 cm,24.48,3000,Lightly Active,Light Exercise,V,Energy boost diet
+F,27,Person_391,Y,56 kg,NO,172 cm,24.61,2600,Super Active,Sedentary Lifestyle,V,Fitness Diet
+M,42,Person_392,Y,74 kg,NO,180 cm,29.75,2400,Lightly Active,Light Exercise,V,Fitness Diet
+F,50,Person_393,Y,97 kg,NO,177 cm,19.54,2400,Lightly Active,Sedentary Lifestyle,V,Fitness Diet
+M,34,Person_394,Y,62 kg,NO,160 cm,26.02,2400,Lightly Active,Sedentary Lifestyle,NV,Energy boost diet
+M,30,Person_395,N,57 kg,NO,166 cm,19.47,1800,Sedentary,Light Exercise,V,Fitness Diet
+F,40,Person_396,Y,91 kg,YES,172 cm,22.17,2600,Sedentary,Sedentary Lifestyle,V,Fitness Diet
+M,44,Person_397,N,98 kg,YES,163 cm,20.62,2800,Sedentary,Light Exercise,V,Energy boost diet
+F,27,Person_398,N,60 kg,NO,190 cm,21.47,3000,Sedentary,Moderate Exercise,V,Light Activity Fuel
+F,19,Person_399,Y,99 kg,YES,184 cm,27.46,2000,Moderate,High intensity Exercise,V,Balanced Diet
+F,44,Person_400,Y,62 kg,NO,173 cm,19.82,2200,Sedentary,Moderate Exercise,V,Light Activity Fuel
+F,53,Person_401,Y,52 kg,YES,182 cm,25.74,3000,Lightly Active,Sedentary Lifestyle,V,Light Activity Fuel
+M,57,Person_402,N,95 kg,NO,172 cm,28.48,3000,Sedentary,Moderate Exercise,NV,Fitness Diet
+F,47,Person_403,Y,61 kg,YES,164 cm,25.53,2400,Super Active,Sedentary Lifestyle,V,Energy boost diet
+F,36,Person_404,Y,83 kg,YES,175 cm,26.49,2200,Moderate,Moderate Exercise,V,Light Activity Fuel
+F,50,Person_405,N,58 kg,YES,185 cm,25.45,3100,Sedentary,Light Exercise,V,Fitness Diet
+M,59,Person_406,Y,83 kg,NO,158 cm,20.22,2000,Moderate,High intensity Exercise,V,Fitness Diet
+F,35,Person_407,Y,87 kg,NO,173 cm,26.05,2400,Sedentary,Moderate Exercise,V,Fitness Diet
+M,56,Person_408,Y,93 kg,YES,176 cm,21.88,2200,Sedentary,High intensity Exercise,V,Balanced Diet
+M,38,Person_409,Y,86 kg,NO,170 cm,23.27,2800,Very Active,Sedentary Lifestyle,NV,Light Activity Fuel
+M,39,Person_410,Y,72 kg,NO,190 cm,21.06,3000,Super Active,Sedentary Lifestyle,NV,Energy boost diet
+F,59,Person_411,N,68 kg,YES,188 cm,20.41,3100,Lightly Active,High intensity Exercise,NV,Balanced Diet
+M,58,Person_412,Y,74 kg,YES,157 cm,20.53,1800,Moderate,Light Exercise,NV,Balanced Diet
+M,52,Person_413,Y,95 kg,NO,178 cm,18.98,3100,Super Active,High intensity Exercise,V,Balanced Diet
+M,30,Person_414,Y,94 kg,YES,178 cm,24.38,2600,Super Active,Light Exercise,NV,Light Activity Fuel
+F,27,Person_415,N,70 kg,NO,162 cm,20.13,2200,Sedentary,High intensity Exercise,NV,Energy boost diet
+M,29,Person_416,Y,91 kg,YES,169 cm,25.12,2000,Moderate,Moderate Exercise,V,Fitness Diet
+M,59,Person_417,N,82 kg,NO,173 cm,27.12,3100,Lightly Active,Moderate Exercise,NV,Balanced Diet
+M,35,Person_418,Y,55 kg,YES,170 cm,29.53,3100,Moderate,Sedentary Lifestyle,NV,Light Activity Fuel
+F,41,Person_419,N,100 kg,NO,189 cm,23.21,2600,Sedentary,Sedentary Lifestyle,V,Balanced Diet
+F,41,Person_420,N,52 kg,YES,168 cm,22.72,2200,Sedentary,Light Exercise,NV,Balanced Diet
+M,37,Person_421,N,52 kg,NO,184 cm,21.62,2600,Super Active,Moderate Exercise,NV,Balanced Diet
+F,51,Person_422,N,54 kg,NO,169 cm,28.01,3100,Sedentary,Sedentary Lifestyle,V,Light Activity Fuel
+M,31,Person_423,N,83 kg,YES,184 cm,29.93,3100,Super Active,Sedentary Lifestyle,V,Fitness Diet
+F,23,Person_424,Y,91 kg,NO,170 cm,20.69,1800,Sedentary,Sedentary Lifestyle,V,Light Activity Fuel
+F,55,Person_425,Y,81 kg,NO,189 cm,18.86,1800,Moderate,Light Exercise,V,Energy boost diet
+M,58,Person_426,Y,57 kg,NO,183 cm,24.52,2000,Moderate,High intensity Exercise,NV,Light Activity Fuel
+M,58,Person_427,N,66 kg,NO,167 cm,19.53,2400,Moderate,Moderate Exercise,NV,Fitness Diet
+M,38,Person_428,N,69 kg,YES,175 cm,27.2,3000,Moderate,Light Exercise,NV,Energy boost diet
+M,43,Person_429,N,56 kg,NO,168 cm,20.96,2000,Sedentary,High intensity Exercise,V,Fitness Diet
+F,22,Person_430,Y,85 kg,YES,180 cm,22.62,2600,Moderate,Sedentary Lifestyle,V,Balanced Diet
+F,34,Person_431,N,87 kg,NO,168 cm,28.6,2200,Moderate,Light Exercise,V,Light Activity Fuel
+M,53,Person_432,Y,76 kg,NO,156 cm,25.6,1800,Lightly Active,High intensity Exercise,NV,Light Activity Fuel
+M,29,Person_433,Y,90 kg,YES,184 cm,28.59,2200,Super Active,Light Exercise,NV,Light Activity Fuel
+F,37,Person_434,N,95 kg,YES,165 cm,20.63,1800,Sedentary,Light Exercise,V,Fitness Diet
+F,45,Person_435,N,67 kg,YES,190 cm,26.95,3100,Very Active,Moderate Exercise,V,Light Activity Fuel
+M,33,Person_436,Y,88 kg,YES,179 cm,29.55,2800,Very Active,Light Exercise,V,Fitness Diet
+F,30,Person_437,Y,87 kg,NO,173 cm,24.99,2000,Sedentary,Moderate Exercise,NV,Energy boost diet
+M,48,Person_438,N,62 kg,NO,180 cm,19.29,3000,Super Active,Light Exercise,V,Fitness Diet
+F,35,Person_439,Y,52 kg,YES,176 cm,28.69,3000,Super Active,Light Exercise,V,Balanced Diet
+M,22,Person_440,Y,88 kg,YES,150 cm,29.6,3100,Lightly Active,High intensity Exercise,NV,Balanced Diet
+M,48,Person_441,Y,96 kg,YES,184 cm,24.36,2600,Moderate,Light Exercise,NV,Fitness Diet
+F,41,Person_442,N,95 kg,NO,170 cm,20.25,3000,Sedentary,Sedentary Lifestyle,V,Balanced Diet
+M,39,Person_443,N,54 kg,NO,165 cm,27.34,1800,Lightly Active,Light Exercise,V,Energy boost diet
+M,49,Person_444,N,72 kg,NO,163 cm,22.56,2800,Moderate,Sedentary Lifestyle,NV,Balanced Diet
+F,52,Person_445,N,94 kg,YES,189 cm,25.97,2000,Lightly Active,Moderate Exercise,V,Energy boost diet
+M,32,Person_446,N,95 kg,YES,173 cm,27.01,1800,Super Active,High intensity Exercise,NV,Fitness Diet
+F,28,Person_447,N,98 kg,NO,187 cm,23.92,2600,Moderate,High intensity Exercise,NV,Fitness Diet
+F,35,Person_448,Y,68 kg,NO,170 cm,21.05,2000,Lightly Active,Light Exercise,NV,Fitness Diet
+M,27,Person_449,N,61 kg,YES,166 cm,19.71,2200,Lightly Active,High intensity Exercise,V,Fitness Diet
+M,32,Person_450,N,86 kg,NO,156 cm,27.2,2600,Moderate,Light Exercise,NV,Fitness Diet
+M,40,Person_451,N,92 kg,YES,161 cm,22.03,1800,Sedentary,Sedentary Lifestyle,NV,Light Activity Fuel
+M,19,Person_452,N,71 kg,NO,172 cm,28.48,2600,Moderate,Moderate Exercise,NV,Light Activity Fuel
+F,18,Person_453,Y,62 kg,NO,157 cm,19.81,2200,Super Active,Sedentary Lifestyle,V,Fitness Diet
+M,53,Person_454,N,93 kg,NO,173 cm,18.57,2200,Super Active,High intensity Exercise,NV,Fitness Diet
+F,39,Person_455,Y,78 kg,NO,169 cm,28.35,3000,Lightly Active,Moderate Exercise,NV,Fitness Diet
+F,54,Person_456,Y,76 kg,YES,153 cm,29.97,2800,Lightly Active,Sedentary Lifestyle,V,Fitness Diet
+F,42,Person_457,N,77 kg,NO,180 cm,25.96,3000,Lightly Active,High intensity Exercise,NV,Fitness Diet
+F,32,Person_458,N,58 kg,YES,152 cm,21.77,2800,Moderate,Light Exercise,V,Light Activity Fuel
+F,25,Person_459,N,51 kg,YES,163 cm,27.53,2600,Very Active,Sedentary Lifestyle,V,Energy boost diet
+F,42,Person_460,N,93 kg,YES,172 cm,26.48,2600,Super Active,Light Exercise,NV,Energy boost diet
+F,44,Person_461,Y,65 kg,NO,152 cm,23.77,2000,Very Active,Moderate Exercise,NV,Fitness Diet
+F,57,Person_462,N,98 kg,YES,180 cm,24.69,1800,Moderate,Light Exercise,NV,Light Activity Fuel
+F,23,Person_463,Y,59 kg,YES,175 cm,21.68,2400,Super Active,High intensity Exercise,V,Energy boost diet
+F,29,Person_464,N,52 kg,YES,150 cm,19.82,2000,Very Active,Moderate Exercise,V,Fitness Diet
+M,46,Person_465,Y,54 kg,YES,153 cm,26.4,2000,Very Active,Light Exercise,NV,Fitness Diet
+M,18,Person_466,Y,89 kg,NO,180 cm,21.85,2400,Sedentary,Sedentary Lifestyle,V,Light Activity Fuel
+F,36,Person_467,Y,51 kg,YES,167 cm,27.05,3100,Very Active,Light Exercise,NV,Fitness Diet
+F,32,Person_468,Y,56 kg,NO,175 cm,24.35,2400,Very Active,Moderate Exercise,NV,Energy boost diet
+M,40,Person_469,N,76 kg,NO,157 cm,29.22,2800,Super Active,High intensity Exercise,V,Fitness Diet
+M,50,Person_470,Y,73 kg,NO,153 cm,19.65,1800,Lightly Active,Moderate Exercise,V,Light Activity Fuel
+M,36,Person_471,Y,58 kg,YES,187 cm,19.75,2800,Lightly Active,Sedentary Lifestyle,V,Light Activity Fuel
+M,21,Person_472,N,87 kg,NO,156 cm,25.14,2800,Sedentary,Sedentary Lifestyle,V,Balanced Diet
+M,47,Person_473,N,67 kg,NO,167 cm,21.13,3000,Moderate,Light Exercise,V,Fitness Diet
+F,33,Person_474,Y,97 kg,YES,187 cm,19.15,2000,Sedentary,High intensity Exercise,NV,Energy boost diet
+F,55,Person_475,Y,51 kg,YES,175 cm,23.51,2600,Moderate,Light Exercise,NV,Energy boost diet
+M,55,Person_476,N,73 kg,YES,168 cm,23.56,1800,Very Active,Light Exercise,V,Fitness Diet
+F,31,Person_477,Y,57 kg,YES,180 cm,28.34,3000,Lightly Active,Sedentary Lifestyle,NV,Balanced Diet
+F,42,Person_478,N,50 kg,YES,174 cm,23.2,1800,Super Active,Light Exercise,V,Fitness Diet
+M,29,Person_479,N,82 kg,NO,188 cm,26.23,2200,Sedentary,Sedentary Lifestyle,NV,Light Activity Fuel
+M,43,Person_480,Y,89 kg,NO,154 cm,18.78,2400,Lightly Active,Light Exercise,V,Balanced Diet
+F,18,Person_481,Y,84 kg,YES,183 cm,22,2400,Lightly Active,Light Exercise,V,Balanced Diet
+F,40,Person_482,Y,58 kg,YES,174 cm,20.47,3000,Very Active,High intensity Exercise,V,Fitness Diet
+M,23,Person_483,Y,96 kg,YES,184 cm,26.3,1800,Very Active,Moderate Exercise,V,Balanced Diet
+M,43,Person_484,Y,57 kg,YES,153 cm,24.39,2000,Very Active,Moderate Exercise,NV,Light Activity Fuel
+F,44,Person_485,N,73 kg,YES,189 cm,25.04,3100,Very Active,Light Exercise,NV,Balanced Diet
+F,23,Person_486,N,51 kg,NO,158 cm,23.02,2600,Very Active,Sedentary Lifestyle,NV,Light Activity Fuel
+M,49,Person_487,N,90 kg,YES,176 cm,25.22,2000,Lightly Active,Light Exercise,NV,Fitness Diet
+F,56,Person_488,N,54 kg,YES,174 cm,20.81,1800,Sedentary,Light Exercise,NV,Fitness Diet
+F,46,Person_489,Y,61 kg,YES,160 cm,19.08,2400,Super Active,Sedentary Lifestyle,V,Light Activity Fuel
+F,57,Person_490,N,94 kg,YES,157 cm,22.61,2600,Moderate,Moderate Exercise,NV,Balanced Diet
+M,32,Person_491,N,90 kg,YES,160 cm,25.02,2200,Super Active,Sedentary Lifestyle,V,Fitness Diet
+M,32,Person_492,Y,50 kg,YES,175 cm,20.27,3100,Sedentary,Light Exercise,NV,Balanced Diet
+M,26,Person_493,N,80 kg,NO,174 cm,22.24,2600,Very Active,High intensity Exercise,NV,Fitness Diet
+M,52,Person_494,Y,59 kg,NO,184 cm,23.3,3100,Sedentary,Moderate Exercise,NV,Light Activity Fuel
+F,35,Person_495,Y,70 kg,NO,174 cm,24.71,2200,Lightly Active,Light Exercise,V,Fitness Diet
+M,18,Person_496,Y,74 kg,NO,150 cm,23.63,2800,Very Active,Light Exercise,V,Fitness Diet
+F,50,Person_497,N,61 kg,YES,170 cm,29.82,2400,Sedentary,Sedentary Lifestyle,NV,Fitness Diet
+M,48,Person_498,N,86 kg,NO,157 cm,21.77,2000,Super Active,Light Exercise,NV,Fitness Diet
+M,34,Person_499,Y,73 kg,YES,159 cm,25.4,2600,Moderate,Moderate Exercise,V,Energy boost diet
+M,24,Person_500,Y,91 kg,NO,157 cm,20.94,3000,Sedentary,Moderate Exercise,NV,Light Activity Fuel
