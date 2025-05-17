@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\cw\OneDrive\Desktop\fitlife\Mini-Project-1\venv"
+VIRTUAL_ENV="C:\Users\cw\OneDrive\Desktop\PiyushProject1\Fitness_Planner\Project\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
