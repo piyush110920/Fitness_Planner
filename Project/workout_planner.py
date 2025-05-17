@@ -82,5 +82,5 @@ def mainq():
             st.write("No exercises found matching your criteria. Try modifying your input.")
 
 # Run the app
-if __name__ == "__mainq__":
+if __name__ == "__main__":
     mainq()
