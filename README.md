@@ -42,6 +42,11 @@ pip install -r requirements.txt
 
 ## 🚀 Usage
 
+### 🖼️ Run the Overall Model
+```bash
+streamlit run main.py
+```
+
 ### 💬 Run the Q&A Chatbot
 ```bash
 streamlit run app.py
